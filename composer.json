@@ -1,0 +1,13 @@
+{
+    "name": "mojo/mojo2021",
+    "description": "pruebaComposer",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {},
+	  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
